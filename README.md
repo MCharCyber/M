@@ -2,7 +2,7 @@
 - 👀 I’m interested in Ethicial Hacking
 - 🌱 I’m currently learning AI, improving Penetratation Testing methods, polishing scripting/programming langauges (bash, python, JavaScript, Java and C)
 - 💞️ I’m looking to collaborate on Security Projects
-- 📫 How to reach me Zion#7753
+- 📫 How to reach me Zion#7753 (Will take some time to Respond!)
 
 <!---
 MukeshBalaSundar/MukeshBalaSundar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
