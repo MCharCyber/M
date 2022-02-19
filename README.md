@@ -4,7 +4,7 @@
 - 👋 I’m @MukeshBalaSundar
 - 👀 I’m interested in Ethicial Hacking
 - 🌱 I’m currently learning AI, improving Penetratation Testing methods, polishing scripting/programming langauges (bash, python, JavaScript, Java and C)
-- 💞️ I’m looking to collaborate on Security Projects but putting projects I made offline or projects.
+- 💞️ I’m looking to collaborate on Security Projects but putting projects I made offline during my free times or old projects from my Formal Education.
 - 📚 Student Transcript from HTB (shows idea of what I am worked on)
 - 📫 How to reach me: Discord;- Zion#7753 (Will take some time to Respond!)
 
