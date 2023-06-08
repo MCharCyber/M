@@ -8,8 +8,7 @@
 - 📚 Student Transcript from HTB in https://github.com/MukeshBalaSundar/MukeshBalaSundar/blob/main/HTB-Academy-Student-Transcript.pdf (shows idea of what I am worked on)
 - 📚 Immersive Labs activity progress:
 - 📚 TryHackMe Progress: Badge down below
-- 📫 How to reach me: Discord;- Zion#7753 (Will take some time to Respond!)
-
+<!-- - 📫 How to reach me: Discord;- Zion#7753 (Will take some time to Respond!) -->
 ![tryhackme Badge](https://tryhackme-badges.s3.amazonaws.com/Mkb.snd.png)
 
 <!---
