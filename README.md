@@ -2,7 +2,7 @@
 ## Welcome To My Profile
 
 - 👋 I’m @MukeshBalaSundar
-- 👀 I’m interested in Ethicial Hacking
+- 👀 Pathway to Ethicial Hacking
 - 🌱 I’m currently learning AI, improving Penetratation Testing methods, polishing scripting/programming langauges (bash, python, JavaScript, Java and C)
 - 💞️ I’m looking to collaborate on Security Projects but putting projects I made offline during my free times or old projects from my Formal Education.
 - 📚 Student Transcript from HTB in https://github.com/MukeshBalaSundar/MukeshBalaSundar/blob/main/HTB-Academy-Student-Transcript.pdf (shows idea of what I am worked on)
