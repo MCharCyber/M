@@ -10,6 +10,8 @@
 - 📚 TryHackMe Progress: Badge down below
 - 📫 How to reach me: Discord;- Zion#7753 (Will take some time to Respond!)
 
+<script src="https://tryhackme.com/badge/977322"></script>
+
 <!---
 MukeshBalaSundar/MukeshBalaSundar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
